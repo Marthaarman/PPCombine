@@ -1,0 +1,11 @@
+C:\Users\marth\source\repos\PPCombine\PPCombine\bin\Debug\PPCombine.exe.config
+C:\Users\marth\source\repos\PPCombine\PPCombine\bin\Debug\PPCombine.exe
+C:\Users\marth\source\repos\PPCombine\PPCombine\bin\Debug\PPCombine.pdb
+C:\Users\marth\source\repos\PPCombine\PPCombine\obj\Debug\PPCombine.csproj.AssemblyReference.cache
+C:\Users\marth\source\repos\PPCombine\PPCombine\obj\Debug\PPCombine.csproj.SuggestedBindingRedirects.cache
+C:\Users\marth\source\repos\PPCombine\PPCombine\obj\Debug\PPCombine.Form1.resources
+C:\Users\marth\source\repos\PPCombine\PPCombine\obj\Debug\PPCombine.Properties.Resources.resources
+C:\Users\marth\source\repos\PPCombine\PPCombine\obj\Debug\PPCombine.csproj.GenerateResource.cache
+C:\Users\marth\source\repos\PPCombine\PPCombine\obj\Debug\PPCombine.csproj.CoreCompileInputs.cache
+C:\Users\marth\source\repos\PPCombine\PPCombine\obj\Debug\PPCombine.exe
+C:\Users\marth\source\repos\PPCombine\PPCombine\obj\Debug\PPCombine.pdb
