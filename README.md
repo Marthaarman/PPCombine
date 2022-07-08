@@ -26,5 +26,7 @@ Press start to start the first powerpoint.
 Select a slide in the slide overview and press goto to open this slide. 
 
 ## You like?
-do you like this application? Please donate :)
-https://www.paypal.com/donate/?hosted_button_id=5EWKQXYMH9KAG
+do you like this application? You can use it for free, but feel free to donate :)
+
+[Donate with PayPal](https://www.paypal.com/donate/?hosted_button_id=5EWKQXYMH9KAG)
+
