@@ -20,3 +20,8 @@ C:\Users\marth\source\repos\PPCombine\src\PPCombine\obj\Debug\PPCombine.pdb
 C:\Users\marth\source\repos\PPCombine\src\PPCombine\bin\Debug\PPCombine.exe.config
 C:\Users\marth\source\repos\PPCombine\src\PPCombine\bin\Debug\PPCombine.exe
 C:\Users\marth\source\repos\PPCombine\src\PPCombine\bin\Debug\PPCombine.pdb
+C:\Users\marth\source\repos\PPCombine\src\PPCombine\bin\Debug\PPCombine.exe.manifest
+C:\Users\marth\source\repos\PPCombine\src\PPCombine\bin\Debug\PPCombine.application
+C:\Users\marth\source\repos\PPCombine\src\PPCombine\obj\Debug\PPCombine.TrustInfo.xml
+C:\Users\marth\source\repos\PPCombine\src\PPCombine\obj\Debug\PPCombine.exe.manifest
+C:\Users\marth\source\repos\PPCombine\src\PPCombine\obj\Debug\PPCombine.application
