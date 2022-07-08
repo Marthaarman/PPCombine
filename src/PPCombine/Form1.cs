@@ -40,11 +40,11 @@ namespace PPCombine
         
         private void listener_keyPress(object sender, KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.Right)
+            if (e.KeyCode == Keys.Right || e.KeyCode == Keys.Next || e.KeyCode == Keys.PageDown || e.KeyCode == Keys.Space || e.KeyCode == Keys.Up)
             {
                 nextSlide();
             }
-            else if (e.KeyCode == Keys.Left)
+            else if (e.KeyCode == Keys.Left || e.KeyCode == Keys.Back || e.KeyCode == Keys.PageUp || e.KeyCode == Keys.Down)
             {
                 prevSlide();
             }
