@@ -1,7 +1,8 @@
 # PPCombine
 
 # what is?
-PPCombine allows multiple powerpoints to be queued for playback. When started, the powerpoint is started. 
+PPCombine allows multiple powerpoints to be queued for playback.
+It is an open-source basic alternative to slide-dog and makes use of the PowerPoint software that has to be pre-installed. 
 
 Using the arrow keys or next/prev buttons, the slides can be displayed.
 
